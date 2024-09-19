@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fudail Mohammed Zafar</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fudail-mohammed-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="fudail-mohammed-zafar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fudailzafar&label=Profile%20views&color=0e75b6&style=flat" alt="fudail-mohammed-zafar" /> </p>
 
 - 🔭 I’m currently working on **Front-End Development!**
 
