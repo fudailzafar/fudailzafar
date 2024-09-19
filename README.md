@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fudail-mohammed-zafar&label=Profile%20views&color=0e75b6&style=flat" alt="fudail-mohammed-zafar" /> </p>
 
-- 🔭 I’m currently working on **building Projects!**
+- 🔭 I’m currently working on **Front-End Development!**
 
 - 🌱 I’m currently learning **DSA & Web Development.**
 
