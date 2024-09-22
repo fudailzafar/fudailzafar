@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA & Web Development.**
 
-- 👯 I’m looking to collaborate on **Software Development**
+- 👯 I’m looking to collaborate on **Software Development!**
 
-- 🤝 I’m looking for help with **Full Stack Development**
+- 🤝 I’m looking for help with **Full Stack Development.**
 
 - 📫 How to reach me **fudail.zafar@gmail.com**
 
