@@ -1,21 +1,22 @@
 ![Header](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<h1 align="center">Hi 👋, I'm Fudail Mohammed Zafar</h1>
+<h1 align="center">👋 Hi, I'm Fudail Mohammed Zafar</h1>
 <h3 align="center">A 2nd year student from BSA Crescent Institute Of Science & Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fudailzafar&label=Profile%20views&color=0e75b6&style=flat" alt="fudailzafar" /> </p>
 
-- 🔭 I’m currently working on **Projects!**
-
-- 🌱 I’m currently learning **DSA & Web Development.**
-
-- 👯 I’m looking to collaborate on **Software Development!**
-
-- 🤝 I’m looking for help with **Back-End Development.**
-
+- 👀 I’m interested in **Software Development**.
+  
+- 🌱 I’m currently learning **DSA & Web Development**.
+  
+- 💞️ I’m looking to collaborate on **Full Stack Web Development**.
+  
 - 📫 How to reach me **fudail.zafar@gmail.com**
+  
+- 😄 Pronouns: **He/Him**
+  
+- ⚡ Fun fact: **I love solving complex coding puzzles, whether it's on the web or on a chessboard!**
 
-- ⚡ Fun fact **I love solving complex coding puzzles, whether it's on the web or on a chessboard!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
