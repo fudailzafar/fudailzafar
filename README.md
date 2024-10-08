@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **DSA & Web Development**.
   
-- 💞️ I’m looking to collaborate on **Full Stack Web Development**.
+- 💞️ I’m looking to collaborate on **Full Stack Development**.
   
 - 📫 How to reach me **fudail.zafar@gmail.com**
   
