@@ -6,15 +6,15 @@ You can click the Preview link to take a look at your changes.
 ![Header](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <h1 align="center">👋 Hi, I'm Fudail Mohammed Zafar</h1>
-<h3 align="center">A 2nd year student from BSA Crescent Institute Of Science & Technology</h3>
+<h3 align="center">A 3rd year student from BSA Crescent Institute Of Science & Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fudailzafar&label=Profile%20views&color=0e75b6&style=flat" alt="fudailzafar" /> </p>
 
 - 👀 I’m interested in **Software Development**.
   
-- 🌱 I’m currently learning **DSA & Full Stack Development**.
+- 🌱 I’m currently learning **Full Stack Development**.
   
-- 💞️ I’m looking to collaborate on **Backend Development**.
+- 💞️ I’m looking to collaborate on **AI Products**.
   
 - 📫 How to reach me **fudail.zafar@gmail.com**
   
@@ -64,7 +64,6 @@ You can click the Preview link to take a look at your changes.
 ## Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fudailzafar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
